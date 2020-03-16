@@ -1,0 +1,7 @@
+train
+  |
+cost
+  |
+hypothesis
+        ^
+weigth    bias
